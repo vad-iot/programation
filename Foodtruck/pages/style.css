@@ -1,5 +1,5 @@
 .div1 {
-  background-color: rgb(153, 92, 209);
+  background-color: rgb(145, 57, 226);
   height: 30px;
   overflow: hidden;
   font-family: Verdana;
@@ -47,12 +47,15 @@
   text-align: center;
   background-color: rgb(98, 207, 207);
 }
-.hot1{
+
+.hot1 {
   background-color: rgb(10, 10, 9);
 }
-.hot2{
+
+.hot2 {
   background-color: rgb(179, 231, 214);
 }
+
 .f {
   color: white;
 }
