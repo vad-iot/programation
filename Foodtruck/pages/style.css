@@ -1,0 +1,58 @@
+.div1 {
+  background-color: rgb(153, 92, 209);
+  height: 30px;
+  overflow: hidden;
+  font-family: Verdana;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(162, 162, 177);
+}
+
+.ti1 {
+  background-color: rgb(209, 207, 67);
+  height: 30px;
+  overflow: hidden;
+  font-family: Verdana;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(162, 162, 177);
+}
+
+.imal {
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+}
+
+.lo1 {
+  text-align: center;
+  background-color: rgb(98, 207, 207);
+}
+
+.lo2 {
+  text-align: center;
+  background-color: rgb(98, 207, 207);
+}
+
+.lo3 {
+  text-align: center;
+  background-color: rgb(98, 207, 207);
+}
+
+.lo4 {
+  text-align: center;
+  background-color: rgb(98, 207, 207);
+}
+
+.lo5 {
+  text-align: center;
+  background-color: rgb(98, 207, 207);
+}
+.hot1{
+  background-color: rgb(10, 10, 9);
+}
+.hot2{
+  background-color: rgb(179, 231, 214);
+}
+.f {
+  color: white;
+}
